@@ -57,7 +57,7 @@ I'm Katoria, currently working as a Technical Resilience Senior Manager at Sales
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theCaptN21&hide=TeX&layout=compact)
 
 
-☁️ Hosting/SaaS
+## ☁️ Hosting/SaaS
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -69,7 +69,7 @@ I'm Katoria, currently working as a Technical Resilience Senior Manager at Sales
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 
-💻 IDEs/Editors
+## 💻 IDEs/Editors
 
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -79,7 +79,7 @@ I'm Katoria, currently working as a Technical Resilience Senior Manager at Sales
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-🦾 Operating Systems
+## 🦾 Operating Systems
 
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
@@ -90,7 +90,7 @@ I'm Katoria, currently working as a Technical Resilience Senior Manager at Sales
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 
-👩🏽‍💻 Databases & 🗄️ Servers
+## 👩🏽‍💻 Databases & 🗄️ Servers
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
