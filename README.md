@@ -22,7 +22,7 @@
   Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm Katoria, currently working as a Technical Resilience Senior Manager at Salesforce. From DevOps to GRC roles, I've seen a ton and done a lot! Well-versed is how I would self-identify, but DevOps is absolutely my passion. Join me on my journey of building things, breaking things, trial-and-error, etc. It'll be a fun one for sure 🖖🏽! 
+I'm Katoria, currently working as a Technical Resilience Senior Manager at Salesforce. From DevOps to Technical Assurance roles, I've seen a ton and done a lot! Well-versed is how I would self-identify, but DevOps is absolutely my passion. Join me on my continuous journey of building things, breaking things, trial-and-error, etc. It'll be a fun one for sure 🖖🏽! 
 
 ## ⚡ Technologies & Languages
 
